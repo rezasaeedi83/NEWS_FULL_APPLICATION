@@ -1,0 +1,25 @@
+* {
+  padding: 0;
+  margin: 0;
+  font-family: AvertaDemo-Regular;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+@font-face {
+  font-family: Mj_Serif_0;
+  src: url('../assets/Mj_Serif_0.ttf');
+}
+
+@font-face {
+  font-family: Roboto-Black;
+  src: url('../assets/Roboto-Black.ttf');
+}
+
+@font-face {
+  font-family: AvertaDemo-Regular;
+  src: url('../assets/AvertaDemo-Regular.otf');
+}
